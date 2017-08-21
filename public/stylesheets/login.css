@@ -1,0 +1,28 @@
+body{
+	background-color: #f3f3f4;
+}
+.form-horizontal{
+	width:60%;
+	margin: auto;
+	margin-top: 7%;
+}
+.alert-dismissible{
+	position: relative;
+	width:60%;
+	margin: auto;
+	margin-top: 5%;
+}
+
+.one{
+	width: 10px;
+	height: 10px;
+	background-image: url(../images/1.svg);
+}
+
+.col-lg-5>img,.col-lg-5>span{
+	width: 12%;
+	height: 12%;
+	padding:2%;
+	color: pink;
+	font-size:  large;
+}

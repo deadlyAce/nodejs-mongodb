@@ -1,0 +1,11 @@
+body{
+	background-color: #f3f3f4;
+}
+.form-horizontal{
+	width:60%;
+	margin: auto;
+	margin-top: 7%;
+}
+.form-control{
+	width: 80%;
+}
